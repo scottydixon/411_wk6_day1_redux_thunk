@@ -1,0 +1,9 @@
+.grid {
+    display: grid;
+    gap: 16px;
+    padding: 32px;
+}
+
+.button {
+    width: min-content;
+}
